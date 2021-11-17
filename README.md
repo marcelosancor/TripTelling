@@ -8,7 +8,7 @@ Projet modal
   <h3 align="center">TripTelling Website prototype</h3>
 
   <p align="center">
-    A turism website to tell travel stories and provide conseils
+    A tourism website to tell travel stories and provide conseils
   </p>
 </p>
 
