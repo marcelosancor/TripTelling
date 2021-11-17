@@ -8,7 +8,7 @@ Projet modal
   <h3 align="center">TripTelling Website prototype</h3>
 
   <p align="center">
-    A tourism website to tell travel stories and provide conseils
+    A tourism website to tell travel stories and provide advices
   </p>
 </p>
 
@@ -41,7 +41,7 @@ Projet modal
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project aims to practice some Web programmer base concepts and techniques, such as <code>html</code>, <code>php</code> and database sysyems. This is part of a Modal project 
+This project aims to practice some Web programmer base concepts and techniques, such as <code>html</code>, <code>php</code> and database systems. This is part of a Modal project 
 of __École Polytechnique de Paris__. This is an evaluated __personal project__ with __educational purposes__.
 
 
