@@ -65,7 +65,13 @@ _TODO: include the tables of the database_
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-_TODO: insert prints and usage explanation_
+_TODO: insert usage explanation_
+
+![alt text](https://github.com/marcelosancor/TripTelling/blob/master/avatars/Page%20home.JPG)
+![alt text](https://github.com/marcelosancor/TripTelling/blob/master/avatars/Page%20initiale.JPG)
+![alt text](https://github.com/marcelosancor/TripTelling/blob/master/avatars/Page%20profile.JPG)
+![alt text](https://github.com/marcelosancor/TripTelling/blob/master/avatars/Page%20post.JPG)
+
 
 <!-- LICENSE -->
 ## License
